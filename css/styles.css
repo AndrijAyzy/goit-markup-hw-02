@@ -3,6 +3,11 @@
     color: #2E2F42;
 }
 
+.header {
+    font-family: 'Roboto';
+    font-style: normal;
+}
+
 .header-list {
     display: flex;
     flex-direction: row;
@@ -86,10 +91,6 @@
     text-transform: uppercase;
 
     color: #2E2F42;
-}
-
-.address-list {
-    font-style: normal;
 }
 
 .header-mail{
